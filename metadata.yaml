@@ -1,0 +1,54 @@
+_repo: Rom-o-et-JulietteTrag-die_18143
+_version: 0.1.0
+alternative_title: Romeo and Juliet. French
+contributor:
+  translator:
+    agent_name: Guizot, François
+    aliases:
+    - Guisot, M. (François)
+    - Guizot, Francois Pierre Guillaume
+    - Guizot, M. (François)
+    - Guizot, Monsieur (François)
+    - Guizot, François Pierre Guillaume
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia: http://en.wikipedia.org/wiki/François_Guizot
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2006-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18143'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Conflict of generations -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Romeo (Fictitious character) -- Drama'
+- !lcsh 'Youth -- Drama'
+- !lcsh 'Verona (Italy) -- Drama'
+- !lcsh 'Juliet (Fictitious character) -- Drama'
+- !lcsh 'Vendetta -- Drama'
+title: 'Roméo et Juliette
+
+  Tragédie'
+url: http://www.gutenberg.org/ebooks/18143
